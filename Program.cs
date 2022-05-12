@@ -189,6 +189,7 @@ namespace СПО_ЛР__1
                     state = -1;
                     break;
             }
+
             return state;
         }
 
